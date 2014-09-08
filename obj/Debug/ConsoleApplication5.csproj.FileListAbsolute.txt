@@ -1,0 +1,9 @@
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\morpiha\documents\visual studio 2013\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Github Rep\C-uppgifter\bin\Debug\ConsoleApplication5.exe.config
+C:\Github Rep\C-uppgifter\obj\Debug\ConsoleApplication5.exe
+C:\Github Rep\C-uppgifter\obj\Debug\ConsoleApplication5.pdb
