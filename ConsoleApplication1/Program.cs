@@ -11,13 +11,18 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             double sum = 0.0;
-            double GivenSum = 0.0;
+            int GivenSum = 0;
 
-            Console.WriteLine("Ange totalsumma: ");
+            Console.Write("Ange totalsumma:");
             sum = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Erhållet belop: ");
+            Console.Write("Erhållet belop:");
             GivenSum = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+
+            Console.WriteLine("KVITTO");
+
         }
     }
 }
